@@ -1,0 +1,16 @@
+import = [
+    "~/.config/alacritty/themes/themes/nordic.toml"
+]
+
+[window]
+padding.x = 10
+padding.y = 10
+blur = true
+opacity = 0.8
+decorations = "Buttonless"
+
+[font]
+normal.family = "AnonymicePro Nerd Font"
+
+#regular
+size = 14
