@@ -1,5 +1,7 @@
 # ignore gcloud directory
 # gcloud directory is used to store the credentials
 gcloud
+github-copilot
+
 
 
